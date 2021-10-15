@@ -1,29 +1,29 @@
-anyio @ file:///D:/bld/anyio_1633972330217/work/dist
-asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1625395912402/work
+anyio==3.3.3
+asgiref==3.4.1
 awsebcli==3.20.2
 botocore==1.21.60
 cement==2.8.2
 certifi==2021.10.8
-click @ file:///D:/bld/click_1634002605485/work
+click==8.0.3
 colorama==0.4.3
-fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1633640170926/work
+fastapi==0.70.0
 future==0.16.0
-h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1609518832927/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
-importlib-metadata @ file:///D:/bld/importlib-metadata_1630267685983/work
+h11==0.12.0
+idna==3.3
+importlib-metadata==4.8.1
 jmespath==0.10.0
 pathspec==0.5.9
-pydantic @ file:///D:/bld/pydantic_1620820216960/work
+pydantic==1.8.2
 pypiwin32==223
 python-dateutil==2.8.2
 pywin32==302
 semantic-version==2.8.5
 six==1.14.0
-sniffio @ file:///D:/bld/sniffio_1610318546199/work
-starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette-recipe_1626701188566/work
+sniffio==1.2.0
+starlette==0.16.0
 termcolor==1.1.0
-typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
-uvicorn @ file:///D:/bld/uvicorn_1630267686123/work
+typing-extensions==3.10.0.2
+uvicorn==0.15.0
 wcwidth==0.1.9
 wincertstore==0.2
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1633302054558/work
+zipp==3.6.0
