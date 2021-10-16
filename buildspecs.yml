@@ -23,7 +23,7 @@ phases:
       # - pytest tests/integration/ -rfs
   post_build:
     commands:
-      - python application.py
+      # - python application.py
 #artifacts:
 #files:
 # - We don't currently preserve any artifacts
