@@ -24,8 +24,9 @@ phases:
   post_build:
     commands:
       # - python application.py
-#artifacts:
-#files:
+artifacts:
+  files:
+    - "**/*"
 # - We don't currently preserve any artifacts
 #name: $(date +%Y-%m-%d)
 #discard-paths: yes
