@@ -1,1 +1,1 @@
-web: gunicorn application:application -w 4 -k uvicorn.workers.UvicornWorker
+uvicorn application:application --host 0.0.0.0 --port 5000 --proxy-headers --reload

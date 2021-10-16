@@ -17,8 +17,6 @@ phases:
   pre_build:
     commands:
       - pip install -r requirements.txt
-      - python3 -m pip uninstall uvicorn
-      - python3 -m pip install uvicorn[standard]
 
   build:
     commands:
